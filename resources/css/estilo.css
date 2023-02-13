@@ -1,0 +1,22 @@
+.fondoB {
+    background: linear-gradient(
+        135deg,
+        rgba(24, 255, 255, 1) 0%,
+        rgba(0, 0, 0, 1) 80%,
+        rgb(38, 65, 65) 30%
+    );
+}
+
+.anchoAudio {
+    width: 94%;
+}
+
+.fondoA {
+    background-image: url("http://localhost/img/DIW/fondomusic.png");
+    background-size: cover;
+}
+
+.cartaAuth {
+    opacity: 0.8;
+    box-shadow: 0px 0px 46px -10px rgba(24, 255, 255, 0.75);
+}
